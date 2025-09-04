@@ -27,5 +27,11 @@ namespace video4_winform
             Form1 ventana = new Form1();
             ventana.ShowDialog();
         }
+
+        private void tsbPerfilPersona_Click(object sender, EventArgs e)
+        {
+            Form1 ventana = new Form1();
+            ventana.ShowDialog();
+        }
     }
 }
